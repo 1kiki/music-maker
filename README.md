@@ -1,3 +1,3 @@
 # music-maker
 
-estudos de clicks com efeitos sonoros e animações simples com javascript
+estudos relacionados a sons e animações dinamicas em javascript
